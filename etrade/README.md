@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+
+Verilerle Çalışmaya Başlamak ve SqFlite Veri Tabanı,
+DbHelper ile veri tabanı oluşturmak ve veri tabanını kontrol etmek(CRUD),
+Ürünlerin getirilmesi,
+Ürün detay sayfasının yazılması,
+Navigation ile Data transferi,
+Alert Dialog ile etkileşim kurmak
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
